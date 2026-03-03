@@ -13,6 +13,11 @@
 
 -- COMMAND ----------
 
+-- MAGIC %md 
+-- MAGIC test
+
+-- COMMAND ----------
+
 -- MAGIC %md
 -- MAGIC # For all syntax we will have first in SQL and then in Python
 
